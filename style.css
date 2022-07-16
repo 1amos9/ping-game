@@ -77,6 +77,7 @@ main {
 
 .player--active .current {
   opacity: 1;
+  color: rgb(12, 218, 245);
 }
 
 .current {
